@@ -1,0 +1,7 @@
+{
+  "name": "Padimi",
+  "description": "A friendly voice messaging companion that communicates in Nigerian Pidgin English using Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
